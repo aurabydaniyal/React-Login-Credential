@@ -22,7 +22,7 @@ A beautifully designed, fully responsive authentication system built with React.
 
 ```bash
 # Clone the repository
-git clone https://github.com/aurabydaniyal/credentials.git
+git clone https://github.com/aurabydaniyal/React-Login-Credential.git
 
 # Navigate to project
 cd credentials
